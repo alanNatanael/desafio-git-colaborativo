@@ -16,3 +16,9 @@ Este repositório foi criado para consolidar os conceitos de controle de versão
 
 ---
 *Projeto desenvolvido para fins de estedo técnico.*
+
+## 🤝 Como Contribuir
+1. Faça um **Fork** do projeto.
+2. Crie uma nova **Branch** para sua modificação (`git checkout -b feature/nova-mudanca`).
+3. Faça o **Commit** de suas alterações (`git commit -m 'feat: adiciona nova mudanca'`).
+4. Abra um **Pull Request** para avaliação.
